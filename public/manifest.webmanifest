@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "JM Cash-out",
+  "short_name": "JM Cash-out",
+  "description": "Calculadora de denominaciones para contar efectivo mexicano.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    {
+      "src": "./icons/jm-cashout.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
