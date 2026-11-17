@@ -826,6 +826,10 @@ h1 span {
     width: 98px;
   }
 
+  .quantity-control input {
+    font-size: 16px;
+  }
+
   .denomination-row {
     min-height: 55px;
   }
